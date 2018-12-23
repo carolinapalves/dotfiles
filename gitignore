@@ -1,5 +1,5 @@
-# Mac OSX Finder hidden files
+.bundle
+.cache
 .DS_Store
-
-# Figaro gem
-config/application.yml
+.sass-cache
+build/
