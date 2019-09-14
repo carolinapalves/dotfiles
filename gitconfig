@@ -48,8 +48,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = mariacantocastro@gmail.com
-	name = maria castro
+	email = cmdapa@gmail.com
+	name = Carolina Alves
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
